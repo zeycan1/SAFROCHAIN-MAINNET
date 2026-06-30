@@ -3,6 +3,11 @@
 <img width="1252" height="380" alt="image" src="https://github.com/user-attachments/assets/deb7c914-9658-4a2c-8de2-93d1ddb189f6" />
 
 
+
+RPC: https://safrochain-rpc.zeycanode.com/
+
+API: https://safrochain-api.zeycanode.com/
+
 ### Sistem Güncellemesi ve Bağımlılıklar
 ```
 sudo apt update && sudo apt upgrade -y
